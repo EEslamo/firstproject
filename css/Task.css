@@ -1,0 +1,40 @@
+body {
+    background-color: burlywood;
+}
+
+.topic{
+    background-color: black;
+    width: 15%;
+    margin-left: 600px;
+    text-align: center;
+    border-radius: 7px;
+    border-top: solid cadetblue;
+    border-bottom: solid cadetblue;
+
+}
+
+span {
+    font-weight: bold;
+    font: optional;
+    color: cadetblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.product-item {
+    width: 23%;
+    text-align: center;
+    background-color: cornflowerblue;
+    float: left;
+    border-radius: 25px;
+    margin-right: 30px;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+}
+
+img {
+    width: 100%;
+}
+
+button {
+    font-style: italic;
+}

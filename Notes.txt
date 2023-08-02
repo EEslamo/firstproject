@@ -1,0 +1,58 @@
+Text format in css:
+
+1- color: blue
+
+2- text align: center,left,right
+
+3- font-size: 16px(default) , 100%(16px)
+
+4- font-weight: 100-900-->Bold
+
+5- font-style: italic
+
+6- font-family: font type and shape that we used in comics
+
+7- text-decoration: underline,line through
+
+
+<div></div> : 
+
+div{
+
+- width: 25%
+
+- hieght : auto
+
+- Background colour
+
+- text-align : center (The text in the div will be centered)
+
+-Float : left
+
+#Box Model :
+
+1- Margin(outer space): 50px(top) , 20px(right) , 30px(bottom) , 25px(left)    بيتزق من برا div ال 
+
+& Margin also could be : 
+
+& margin-top or margin-bottom etc.. : 50px
+
+& margin: 50px ---> all the directions are 50px
+
+2- Padding(inner space) بيتمد لبرا div ال
+
+&Same syntax of margin
+
+3- Border(External frame) الاطار الخارجي
+
+- border-width : 50px
+
+- border-color : blue
+
+- border-style : solid , dashed , underline , dotted
+
+- border: 10px solid black 	التجميعه
+
+- border-radius(The edges or corners): 50px 10px 20px 25px
+
+}
